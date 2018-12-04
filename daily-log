@@ -8,3 +8,5 @@ great drop-and-drag editor but to build custom websites with it, you still have 
 <p>Also got back into the Git a New Job course with Brad Schiff (@learnwebcode on Twitter) and made some 
 progress with Waypoints and jQuery making elements fade in and out. It was not using the fadeIn or fadeOut 
 methods from jQuery but using opacities and transitioning these opacities using CSS.</p>
+
+That's Round 2 Day 31 of 100 Days f Code
