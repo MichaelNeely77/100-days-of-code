@@ -1,1 +1,10 @@
 <h1>Day 25</h1>
+
+<h1>Round 2 Day 31</h1>
+
+<p>Worked on the new WordPress site writing HtML, and CSS for a Beaver BUilder build. Beaver Build is a
+great drop-and-drag editor but to build custom websites with it, you still have to know how to code.</p>
+
+<p>Also got back into the Git a New Job course with Brad Schiff (@learnwebcode on Twitter) and made some 
+progress with Waypoints and jQuery making elements fade in and out. It was not using the fadeIn or fadeOut 
+methods from jQuery but using opacities and transitioning these opacities using CSS.</p>
