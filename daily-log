@@ -9,4 +9,15 @@ great drop-and-drag editor but to build custom websites with it, you still have 
 progress with Waypoints and jQuery making elements fade in and out. It was not using the fadeIn or fadeOut 
 methods from jQuery but using opacities and transitioning these opacities using CSS.</p>
 
-That's Round 2 Day 31 of 100 Days f Code
+That's Round 2 Day 31 of 100 Days of Code
+
+<h1>Round 2 Day 33</h2>
+
+<p>Today I worked a little more on a WordPress build for a client who wants to transfer her client sites to 
+Beaver Builder for improved page loading speed and therefore ranking. I've never read that BB sites load 
+faster, but it's worth a shot. I still don't believe that page loading speed plays that critical of a role in ranking.
+I still think that content and frequency of adding content are still the top dogs. Turned down two projects 
+because they lacked client commitment, financially and in planning. If someone tells me they are cheap from the
+beginning, I just neeed to say "I've go tot go." Worked a little more onn the site build to show how HTML, CSS, 
+Git, gitHub and Gulp work in the course with Brad Schiff. Looking forward to getting into some more JS, 
+React or Node.js. Full Stack and MEAN Stack are calling my name. So is Laravel. More to come tomorrow.</p>
